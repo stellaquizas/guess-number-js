@@ -6,4 +6,4 @@ This is a mini game of guessing number between 1 and 100. The game will tell you
 
 ## Hosting
 
-You can play the game from <a herf="https://guessnumber1to100.netlify.app/">here<a>
+You can play the game from <a href="https://guessnumber1to100.netlify.app/">here<a>
